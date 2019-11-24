@@ -3,3 +3,11 @@ body{
   background-image: url("/images/background5.gif");
   text-align: center;
 }
+
+p{
+font-size: 100pt;
+}
+
+h1{
+  font-size: 100pt;
+}

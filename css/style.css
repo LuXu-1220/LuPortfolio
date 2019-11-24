@@ -13,55 +13,19 @@ h1{
   font-family: 'Dancing Script', cursive;
   text-align: center;
 }
-p1{
-  color:#FEF4DF;
-  font-family: 'Indie Flower', cursive;
-  font-size: 100pt;
-  text-align: center;
-}
-p2{
-  color:#FEF4DF;
-  font-family: 'Indie Flower', cursive;
-  font-size: 100pt;
-  text-align: center;
-}
-
-p3{
-  color:#FEF4DF;
-  font-family: 'Indie Flower', cursive;
-  font-size: 100pt;
-  text-align: center;
-}
 
 p:hover{
   color:#EB976C;
 }
 
-h2{
-  color:#3243FF;
-}
-h3{
-  color:#EB991F;
-  text-align: left;
-}
-h4{
-  color:#FF9280;
-}
-
 nav a {
-  margin: 20px;
-  padding: 20px;
+  margin: 40px;
+  padding: 40px;
 }
 
-h4:hover{
-  color:hotpink;
-  font-size: 100pt;
-
-}
 a{
   font-size: 120pt;
   color:#FFB100;
-  text-decoration:line-through;
   background-color:#D0EDAD;
 font-family: 'Tomorrow', sans-serif;
 }
