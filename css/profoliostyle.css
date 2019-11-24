@@ -1,5 +1,24 @@
 body{
   font-family: 'Dancing Script', cursive;
-  background-image: url("/images/background7.gif");
+  background-image: url("/images/background4.gif");
   text-align: center;
+}
+
+img{
+  display:block;
+  margin:auto;
+  text-align: center;
+}
+
+.protfolio-item{
+  margin-top: 60px;
+  padding:40px;
+}
+
+h3{
+font-size: 50pt;
+}
+
+p{
+font-size: 50pt;
 }
