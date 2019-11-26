@@ -5,8 +5,9 @@ body{
 }
 
 p{
-font-size: 100pt;
+font-size: 80px;
 color:blue;
+
 }
 
 h1{
@@ -14,4 +15,9 @@ h1{
   font-size: 200pt;
   font-family: 'Dancing Script', cursive;
   text-align: center;
+}
+
+.ppp{
+  margin-left: 800px;
+  margin-right: 800px;
 }
