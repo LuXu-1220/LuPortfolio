@@ -1,11 +1,11 @@
 body{
   font-family: 'Dancing Script', cursive;
-  background-image: url("images/background4.gif");
+  background-image: url("../images/background4.gif");
   text-align: center;
 }
 
 h1{
-font-size: 180pt;
+font-size: 50pt;
 color:hotpink;
 }
 
@@ -21,9 +21,9 @@ img{
 }
 
 h3{
-font-size: 50pt;
+font-size: 20pt;
 }
 
 p{
-font-size: 50pt;
+font-size: 20pt;
 }
