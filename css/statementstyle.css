@@ -1,23 +1,23 @@
 body{
   font-family: 'Dancing Script', cursive;
-  background-image: url("/images/background5.gif");
+  background-image: url("../images/background5.gif");
   text-align: center;
 }
 
 p{
-font-size: 80px;
+font-size: 20px;
 color:blue;
 
 }
 
 h1{
   color:#FF968C;
-  font-size: 200pt;
+  font-size: 20pt;
   font-family: 'Dancing Script', cursive;
   text-align: center;
 }
 
 .ppp{
-  margin-left: 800px;
-  margin-right: 800px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
