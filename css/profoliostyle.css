@@ -22,9 +22,11 @@ img{
 }
 
 h3{
-font-size: 20pt;
+font-size: 18pt;
 }
 
 p{
-font-size: 20pt;
+font-size: 15pt;
+margin-left: 300px;
+margin-right:300px;
 }
