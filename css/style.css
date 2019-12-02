@@ -3,13 +3,13 @@
 body{
   background-color: #ADEDDC;
   font-family: 'Dancing Script', cursive;
-  background-image: url("/images/background.gif");
+  background-image: url("../images/background.gif");
   text-align: center;
 }
 
 h1{
   color:#FF968C;
-  font-size: 200pt;
+  font-size: 50pt;
   font-family: 'Dancing Script', cursive;
   text-align: center;
 }
@@ -19,15 +19,15 @@ p:hover{
 }
 
 nav a {
-  margin: 40px;
-  padding: 40px;
+  margin: 50px;
+  padding: 6px;
 }
 
 a{
-  font-size: 120pt;
+  font-size: 20pt;
   color:#FFB100;
   background-color:#D0EDAD;
-font-family: 'Tomorrow', sans-serif;
+  font-family: 'Tomorrow', sans-serif;
 }
 /* mouse over link */
 a:hover{
